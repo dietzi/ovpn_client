@@ -1,0 +1,11 @@
+name: "OpenVPN Client"
+description: "OpenVPN Client"
+version: "1.0.0"
+slug: "ovpn_client"
+init: true
+arch:
+  - aarch64
+  - amd64
+  - armhf
+  - armv7
+  - i386
